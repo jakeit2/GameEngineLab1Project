@@ -13,9 +13,795 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-02-26T11:00:39.717-05:00
-  initializedAtString: 2021-02-26T11:00:39.538-05:00
+  lastUpdatedAtString: 2021-02-26T14:14:55.429-05:00
+  initializedAtString: 2021-02-26T12:53:51.651-05:00
   log:
+  - commitID: f9c2d9decabd8e4d31005cd948e5853c9c1a1a4b
+    mergeA: 
+    mergeB: 
+    authorName: jakeit2
+    authorEmail: donawesome8@gmail.com
+    commitEmail: donawesome8@gmail.com
+    commitName: jakeit2
+    summary: Update 2
+    description: 
+    timeString: 2021-02-26T11:53:11.000-05:00
+    commitTimeString: 2021-02-26T11:53:11.000-05:00
+    changes:
+    - path: Game\Assets\Foliage Free.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free.meta
+      projectPath: Assets\Foliage Free.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\New Terrain.asset
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\New Terrain.asset
+      projectPath: Assets\Foliage Free\New Terrain.asset
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\New Terrain.asset.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\New Terrain.asset.meta
+      projectPath: Assets\Foliage Free\New Terrain.asset.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\Readme.txt
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\Readme.txt
+      projectPath: Assets\Foliage Free\Readme.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\Readme.txt.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\Readme.txt.meta
+      projectPath: Assets\Foliage Free\Readme.txt.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\detail.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\detail.meta
+      projectPath: Assets\Foliage Free\detail.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\detail\grass_detail1.tga
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\detail\grass_detail1.tga
+      projectPath: Assets\Foliage Free\detail\grass_detail1.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\detail\grass_detail1.tga.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\detail\grass_detail1.tga.meta
+      projectPath: Assets\Foliage Free\detail\grass_detail1.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\detail\grass_detail2.tga
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\detail\grass_detail2.tga
+      projectPath: Assets\Foliage Free\detail\grass_detail2.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\detail\grass_detail2.tga.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\detail\grass_detail2.tga.meta
+      projectPath: Assets\Foliage Free\detail\grass_detail2.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\example.unity
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\example.unity
+      projectPath: Assets\Foliage Free\example.unity
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\example.unity.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\example.unity.meta
+      projectPath: Assets\Foliage Free\example.unity.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\materials.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\materials.meta
+      projectPath: Assets\Foliage Free\materials.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\materials\fern.mat
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\materials\fern.mat
+      projectPath: Assets\Foliage Free\materials\fern.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\materials\fern.mat.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\materials\fern.mat.meta
+      projectPath: Assets\Foliage Free\materials\fern.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\materials\pinetree.mat
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\materials\pinetree.mat
+      projectPath: Assets\Foliage Free\materials\pinetree.mat
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\materials\pinetree.mat.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\materials\pinetree.mat.meta
+      projectPath: Assets\Foliage Free\materials\pinetree.mat.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models.meta
+      projectPath: Assets\Foliage Free\models.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\ferns.fbx
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\ferns.fbx
+      projectPath: Assets\Foliage Free\models\ferns.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\ferns.fbx.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\ferns.fbx.meta
+      projectPath: Assets\Foliage Free\models\ferns.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine1a.fbx
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine1a.fbx
+      projectPath: Assets\Foliage Free\models\pine1a.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine1a.fbx.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine1a.fbx.meta
+      projectPath: Assets\Foliage Free\models\pine1a.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine1b.fbx
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine1b.fbx
+      projectPath: Assets\Foliage Free\models\pine1b.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine1b.fbx.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine1b.fbx.meta
+      projectPath: Assets\Foliage Free\models\pine1b.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine2a.fbx
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine2a.fbx
+      projectPath: Assets\Foliage Free\models\pine2a.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine2a.fbx.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine2a.fbx.meta
+      projectPath: Assets\Foliage Free\models\pine2a.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine2b.fbx
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine2b.fbx
+      projectPath: Assets\Foliage Free\models\pine2b.fbx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\models\pine2b.fbx.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\models\pine2b.fbx.meta
+      projectPath: Assets\Foliage Free\models\pine2b.fbx.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures.meta
+      projectPath: Assets\Foliage Free\textures.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\ferns.tga
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\ferns.tga
+      projectPath: Assets\Foliage Free\textures\ferns.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\ferns.tga.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\ferns.tga.meta
+      projectPath: Assets\Foliage Free\textures\ferns.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\grass2_diffuse.tga
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\grass2_diffuse.tga
+      projectPath: Assets\Foliage Free\textures\grass2_diffuse.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\grass2_diffuse.tga.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\grass2_diffuse.tga.meta
+      projectPath: Assets\Foliage Free\textures\grass2_diffuse.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\pinetree-albedo.tga
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\pinetree-albedo.tga
+      projectPath: Assets\Foliage Free\textures\pinetree-albedo.tga
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Foliage Free\textures\pinetree-albedo.tga.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Foliage
+        Free\textures\pinetree-albedo.tga.meta
+      projectPath: Assets\Foliage Free\textures\pinetree-albedo.tga.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\New Terrain 2.asset
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\New
+        Terrain 2.asset
+      projectPath: Assets\New Terrain 2.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Assets\Scenes\NewLayer.terrainlayer
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Scenes\NewLayer.terrainlayer
+      projectPath: Assets\Scenes\NewLayer.terrainlayer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\Scenes\NewLayer.terrainlayer.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Scenes\NewLayer.terrainlayer.meta
+      projectPath: Assets\Scenes\NewLayer.terrainlayer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer
+      projectPath: Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer.meta
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer.meta
+      projectPath: Assets\_TerrainAutoUpgrade\layer_grass2_diffuse2023054508611406.terrainlayer.meta
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ArtifactDB
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\0d\0d75901bbffdcc604f5b22eea2380b13
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\0d\0d75901bbffdcc604f5b22eea2380b13
+      projectPath: Library\Artifacts\0d\0d75901bbffdcc604f5b22eea2380b13
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\0e\0e3a08cc41e9ec2935fddaff6cd978c6
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\0e\0e3a08cc41e9ec2935fddaff6cd978c6
+      projectPath: Library\Artifacts\0e\0e3a08cc41e9ec2935fddaff6cd978c6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\11\11235c6a062bd5dc7ada7f93e3758d1b
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\11\11235c6a062bd5dc7ada7f93e3758d1b
+      projectPath: Library\Artifacts\11\11235c6a062bd5dc7ada7f93e3758d1b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\13\1380caa9f790aae944c06d511628a2a6
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\13\1380caa9f790aae944c06d511628a2a6
+      projectPath: Library\Artifacts\13\1380caa9f790aae944c06d511628a2a6
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\1a\1addf65473b4d2c1c2da57f121efeea7
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\1a\1addf65473b4d2c1c2da57f121efeea7
+      projectPath: Library\Artifacts\1a\1addf65473b4d2c1c2da57f121efeea7
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\27\2757009dab005c852871317298d9b0b3
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\27\2757009dab005c852871317298d9b0b3
+      projectPath: Library\Artifacts\27\2757009dab005c852871317298d9b0b3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\2f\2f2a4e29f3c85e85f748c2ae9e67854c
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\2f\2f2a4e29f3c85e85f748c2ae9e67854c
+      projectPath: Library\Artifacts\2f\2f2a4e29f3c85e85f748c2ae9e67854c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\35\35bfb9ed9a0bce6fe5928ecd24f7c5d3
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\35\35bfb9ed9a0bce6fe5928ecd24f7c5d3
+      projectPath: Library\Artifacts\35\35bfb9ed9a0bce6fe5928ecd24f7c5d3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\3c\3c29fde49c29f0ef1574b815703673f5
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\3c\3c29fde49c29f0ef1574b815703673f5
+      projectPath: Library\Artifacts\3c\3c29fde49c29f0ef1574b815703673f5
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\3f\3fbe34814bef7fcd9987c29ef1c5d759
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\3f\3fbe34814bef7fcd9987c29ef1c5d759
+      projectPath: Library\Artifacts\3f\3fbe34814bef7fcd9987c29ef1c5d759
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\42\42249834b89ef18bab9c8cc0d7468d27
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\42\42249834b89ef18bab9c8cc0d7468d27
+      projectPath: Library\Artifacts\42\42249834b89ef18bab9c8cc0d7468d27
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\48\481b58002942b4ef6489f5d305ea5803
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\48\481b58002942b4ef6489f5d305ea5803
+      projectPath: Library\Artifacts\48\481b58002942b4ef6489f5d305ea5803
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\50\5012c4e7105fe3f8e55486861eab4c6a
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\50\5012c4e7105fe3f8e55486861eab4c6a
+      projectPath: Library\Artifacts\50\5012c4e7105fe3f8e55486861eab4c6a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\53\538fa8e811125f82c78b9f9edf032ece
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\53\538fa8e811125f82c78b9f9edf032ece
+      projectPath: Library\Artifacts\53\538fa8e811125f82c78b9f9edf032ece
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\59\593ae0eb4de6e6030c47b9d7356ac4f1
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\59\593ae0eb4de6e6030c47b9d7356ac4f1
+      projectPath: Library\Artifacts\59\593ae0eb4de6e6030c47b9d7356ac4f1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\5c\5c755d378f7205dad10e7a8a4095f573
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\5c\5c755d378f7205dad10e7a8a4095f573
+      projectPath: Library\Artifacts\5c\5c755d378f7205dad10e7a8a4095f573
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\5d\5dafd7af2eb8cf3e95ff1caee2ae9293
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\5d\5dafd7af2eb8cf3e95ff1caee2ae9293
+      projectPath: Library\Artifacts\5d\5dafd7af2eb8cf3e95ff1caee2ae9293
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\6a\6a22abd2db99a3c36ec1122b8257830d
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\6a\6a22abd2db99a3c36ec1122b8257830d
+      projectPath: Library\Artifacts\6a\6a22abd2db99a3c36ec1122b8257830d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\6a\6a5961180ad3d69b3dedda39ee92e6d6
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\6a\6a5961180ad3d69b3dedda39ee92e6d6
+      projectPath: Library\Artifacts\6a\6a5961180ad3d69b3dedda39ee92e6d6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\6a\6a6391792fe089fac2a64fa620f90342
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\6a\6a6391792fe089fac2a64fa620f90342
+      projectPath: Library\Artifacts\6a\6a6391792fe089fac2a64fa620f90342
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\6d\6da9f0e101c0bd90cf99b74de1fcc63d
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\6d\6da9f0e101c0bd90cf99b74de1fcc63d
+      projectPath: Library\Artifacts\6d\6da9f0e101c0bd90cf99b74de1fcc63d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\6f\6f5e485655e62e74ca5ecdf67ee94200
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\6f\6f5e485655e62e74ca5ecdf67ee94200
+      projectPath: Library\Artifacts\6f\6f5e485655e62e74ca5ecdf67ee94200
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\74\7434c5b3ddd4f2567db4b8df2e27a695
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\74\7434c5b3ddd4f2567db4b8df2e27a695
+      projectPath: Library\Artifacts\74\7434c5b3ddd4f2567db4b8df2e27a695
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\7b\7b8308981ce0c129c7079c2710fb6b70
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\7b\7b8308981ce0c129c7079c2710fb6b70
+      projectPath: Library\Artifacts\7b\7b8308981ce0c129c7079c2710fb6b70
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\80\8081f032b6ff455bdbd0f706c48d196c
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\80\8081f032b6ff455bdbd0f706c48d196c
+      projectPath: Library\Artifacts\80\8081f032b6ff455bdbd0f706c48d196c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\85\85ad93c93169ba686d5d360221e57284
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\85\85ad93c93169ba686d5d360221e57284
+      projectPath: Library\Artifacts\85\85ad93c93169ba686d5d360221e57284
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\89\89ab479e8ade8961907cb56f7c787a82
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\89\89ab479e8ade8961907cb56f7c787a82
+      projectPath: Library\Artifacts\89\89ab479e8ade8961907cb56f7c787a82
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\8b\8ba90b6dabcb59ca5ed1571a4652da62
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\8b\8ba90b6dabcb59ca5ed1571a4652da62
+      projectPath: Library\Artifacts\8b\8ba90b6dabcb59ca5ed1571a4652da62
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\8f\8fa9547048619ca276d8cc6153307205
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\8f\8fa9547048619ca276d8cc6153307205
+      projectPath: Library\Artifacts\8f\8fa9547048619ca276d8cc6153307205
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\95\9533f9a98cf5e7503322c2851f0d112d
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\95\9533f9a98cf5e7503322c2851f0d112d
+      projectPath: Library\Artifacts\95\9533f9a98cf5e7503322c2851f0d112d
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\99\9924ed911b46cc6fd802320280129747
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\99\9924ed911b46cc6fd802320280129747
+      projectPath: Library\Artifacts\99\9924ed911b46cc6fd802320280129747
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\9a\9a63955f14f50d74471a35464445855f
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\9a\9a63955f14f50d74471a35464445855f
+      projectPath: Library\Artifacts\9a\9a63955f14f50d74471a35464445855f
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\ad\ada085148a953a0a76a6cc598064bffd
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\ad\ada085148a953a0a76a6cc598064bffd
+      projectPath: Library\Artifacts\ad\ada085148a953a0a76a6cc598064bffd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\ad\adb51186e238abb0feb2a317a337e4ef
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\ad\adb51186e238abb0feb2a317a337e4ef
+      projectPath: Library\Artifacts\ad\adb51186e238abb0feb2a317a337e4ef
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\b2\b2aa99bedbe621593af5f7428c4877fc
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\b2\b2aa99bedbe621593af5f7428c4877fc
+      projectPath: Library\Artifacts\b2\b2aa99bedbe621593af5f7428c4877fc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\b9\b9e23c53948263e743d4e0748f4b04c0
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\b9\b9e23c53948263e743d4e0748f4b04c0
+      projectPath: Library\Artifacts\b9\b9e23c53948263e743d4e0748f4b04c0
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\c0\c0a88def05918cbd5161132890c92e56
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\c0\c0a88def05918cbd5161132890c92e56
+      projectPath: Library\Artifacts\c0\c0a88def05918cbd5161132890c92e56
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\c5\c52d634827b647a02c1a8e1327ade8b1
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\c5\c52d634827b647a02c1a8e1327ade8b1
+      projectPath: Library\Artifacts\c5\c52d634827b647a02c1a8e1327ade8b1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\c5\c5b2dba7a3ea636e6a5f1446a4ca86db
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\c5\c5b2dba7a3ea636e6a5f1446a4ca86db
+      projectPath: Library\Artifacts\c5\c5b2dba7a3ea636e6a5f1446a4ca86db
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\c9\c9612cf2dfd7e1f8aabee73920eb75fb
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\c9\c9612cf2dfd7e1f8aabee73920eb75fb
+      projectPath: Library\Artifacts\c9\c9612cf2dfd7e1f8aabee73920eb75fb
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\e3\e3fe6d5324564eaacc3142dafebe609b
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\e3\e3fe6d5324564eaacc3142dafebe609b
+      projectPath: Library\Artifacts\e3\e3fe6d5324564eaacc3142dafebe609b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\e4\e429c5681aad03ffff508362e8ae16ba
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\e4\e429c5681aad03ffff508362e8ae16ba
+      projectPath: Library\Artifacts\e4\e429c5681aad03ffff508362e8ae16ba
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\e4\e4cd3e6febb7473d31408e4347161370
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\e4\e4cd3e6febb7473d31408e4347161370
+      projectPath: Library\Artifacts\e4\e4cd3e6febb7473d31408e4347161370
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\fb\fbedb97aa6235137c4c94eb4145bc01b
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\fb\fbedb97aa6235137c4c94eb4145bc01b
+      projectPath: Library\Artifacts\fb\fbedb97aa6235137c4c94eb4145bc01b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\Artifacts\fe\fe043ab4b74b14ca91bd485d4acae4f3
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\fe\fe043ab4b74b14ca91bd485d4acae4f3
+      projectPath: Library\Artifacts\fe\fe043ab4b74b14ca91bd485d4acae4f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\CurrentLayout-default.dwlt
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\CurrentLayout-default.dwlt
+      projectPath: Library\CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\0\0219531145719287efe3beebb3567032.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\0\0219531145719287efe3beebb3567032.bin
+      projectPath: Library\ShaderCache\0\0219531145719287efe3beebb3567032.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\2\25985eb9f6ccb9605c599c2cc632b5b4.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\2\25985eb9f6ccb9605c599c2cc632b5b4.bin
+      projectPath: Library\ShaderCache\2\25985eb9f6ccb9605c599c2cc632b5b4.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\3\30caa390f634d21adfe07b384a0eb838.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\3\30caa390f634d21adfe07b384a0eb838.bin
+      projectPath: Library\ShaderCache\3\30caa390f634d21adfe07b384a0eb838.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\3\34032d6cd25afb85c710ad1596227329.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\3\34032d6cd25afb85c710ad1596227329.bin
+      projectPath: Library\ShaderCache\3\34032d6cd25afb85c710ad1596227329.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\3\384ccbe6236a02fecaee689f3a3f7dd1.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\3\384ccbe6236a02fecaee689f3a3f7dd1.bin
+      projectPath: Library\ShaderCache\3\384ccbe6236a02fecaee689f3a3f7dd1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\3\3b63961cecdd3e6c654174f79871a808.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\3\3b63961cecdd3e6c654174f79871a808.bin
+      projectPath: Library\ShaderCache\3\3b63961cecdd3e6c654174f79871a808.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\5\531bb46b6d333c6d7cbabf7d56fd0ac1.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\5\531bb46b6d333c6d7cbabf7d56fd0ac1.bin
+      projectPath: Library\ShaderCache\5\531bb46b6d333c6d7cbabf7d56fd0ac1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\5\5397d63559ae4a6ce7b790d3bb0c9129.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\5\5397d63559ae4a6ce7b790d3bb0c9129.bin
+      projectPath: Library\ShaderCache\5\5397d63559ae4a6ce7b790d3bb0c9129.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\5\54bb937b3244012519a73c07f40994d0.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\5\54bb937b3244012519a73c07f40994d0.bin
+      projectPath: Library\ShaderCache\5\54bb937b3244012519a73c07f40994d0.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\5\5b6d24eef5a1bc7777608d12fb4e86dc.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\5\5b6d24eef5a1bc7777608d12fb4e86dc.bin
+      projectPath: Library\ShaderCache\5\5b6d24eef5a1bc7777608d12fb4e86dc.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\6\6f8d2070622669614224c74592f39bd1.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\6\6f8d2070622669614224c74592f39bd1.bin
+      projectPath: Library\ShaderCache\6\6f8d2070622669614224c74592f39bd1.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\7\76a85dc0bac5d4ada48b675e582aa747.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\7\76a85dc0bac5d4ada48b675e582aa747.bin
+      projectPath: Library\ShaderCache\7\76a85dc0bac5d4ada48b675e582aa747.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\7\7e91845ff33510ccbf873ad2ba52d7d7.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\7\7e91845ff33510ccbf873ad2ba52d7d7.bin
+      projectPath: Library\ShaderCache\7\7e91845ff33510ccbf873ad2ba52d7d7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\8\8d89b5822f042039cb2b07ae766d4e34.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\8\8d89b5822f042039cb2b07ae766d4e34.bin
+      projectPath: Library\ShaderCache\8\8d89b5822f042039cb2b07ae766d4e34.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\9\98a3c20298561d5823147628b9308b74.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\9\98a3c20298561d5823147628b9308b74.bin
+      projectPath: Library\ShaderCache\9\98a3c20298561d5823147628b9308b74.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\9\9eb59f4647baffacacd51e5a2c5eef38.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\9\9eb59f4647baffacacd51e5a2c5eef38.bin
+      projectPath: Library\ShaderCache\9\9eb59f4647baffacacd51e5a2c5eef38.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\c\c060cbed118fbd63f8e0f887b23b09f2.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\c\c060cbed118fbd63f8e0f887b23b09f2.bin
+      projectPath: Library\ShaderCache\c\c060cbed118fbd63f8e0f887b23b09f2.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\c\c2e0d066f0ca86b58843bd04e8a44607.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\c\c2e0d066f0ca86b58843bd04e8a44607.bin
+      projectPath: Library\ShaderCache\c\c2e0d066f0ca86b58843bd04e8a44607.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\d\d36a0fe3cca506b11ec08697d901f4ad.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\d\d36a0fe3cca506b11ec08697d901f4ad.bin
+      projectPath: Library\ShaderCache\d\d36a0fe3cca506b11ec08697d901f4ad.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\ShaderCache\f\f03bf683597613390bd770b962ab2272.bin
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ShaderCache\f\f03bf683597613390bd770b962ab2272.bin
+      projectPath: Library\ShaderCache\f\f03bf683597613390bd770b962ab2272.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\SourceAssetDB
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\StateCache\SceneView\b58839-mainStage.json
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\StateCache\SceneView\b58839-mainStage.json
+      projectPath: Library\StateCache\SceneView\b58839-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\TerrainTools\PaintTexture
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\TerrainTools\PaintTexture
+      projectPath: Library\TerrainTools\PaintTexture
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\expandedItems
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Game\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 76f399e36edbd49351e539eeb8c0d4796d5aa6fe
     mergeA: 
     mergeB: 
