@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-02-26T16:40:51.352-05:00
-  initializedAtString: 2021-02-26T16:40:40.039-05:00
-  localBranches:
-  - name: main
-    tracking: origin/main
+  lastUpdatedAtString: 2021-02-26T20:07:43.328-05:00
+  initializedAtString: 2021-02-26T19:05:17.421-05:00
+  localBranches: []
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
@@ -32,14 +30,8 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    values:
-    - name: main
-      remote:
-        name: origin
-        url: https://github.com/jakeit2/GameEngineLab1Project.git
-      trackingBranch: main
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
