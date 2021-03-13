@@ -13,96 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-03-11T14:59:12.452-05:00
-  initializedAtString: 2021-03-11T14:57:06.030-05:00
+  lastUpdatedAtString: 2021-03-13T16:00:37.582-05:00
+  initializedAtString: 2021-03-13T15:44:35.590-05:00
   entries:
-  - path: Game\Assets\Interactablity.cs
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Interactablity.cs
-    projectPath: Assets\Interactablity.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Assets\Interactablity.cs.meta
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\Interactablity.cs.meta
-    projectPath: Assets\Interactablity.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Assets\NPC.cs
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\NPC.cs
-    projectPath: Assets\NPC.cs
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Assets\NPC.cs.meta
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Assets\NPC.cs.meta
-    projectPath: Assets\NPC.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Game\Library\ArtifactDB
     fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ArtifactDB
     projectPath: Library\ArtifactDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\Artifacts\34\3454e53c9f81108b9facf2ca5671d2c5
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\34\3454e53c9f81108b9facf2ca5671d2c5
-    projectPath: Library\Artifacts\34\3454e53c9f81108b9facf2ca5671d2c5
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Library\Artifacts\37\3715cc2e3a89eb682901bd564fb07837
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\37\3715cc2e3a89eb682901bd564fb07837
-    projectPath: Library\Artifacts\37\3715cc2e3a89eb682901bd564fb07837
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\47\47c85defd76da4faf8191a5b5249e90c
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\47\47c85defd76da4faf8191a5b5249e90c
-    projectPath: Library\Artifacts\47\47c85defd76da4faf8191a5b5249e90c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Library\Artifacts\a2\a2566a74994fe9c6bdbe9e3a607d90e6
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\a2\a2566a74994fe9c6bdbe9e3a607d90e6
-    projectPath: Library\Artifacts\a2\a2566a74994fe9c6bdbe9e3a607d90e6
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\bb\bb7bb5cc13a146f572d2f2ee3cca58b5
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\bb\bb7bb5cc13a146f572d2f2ee3cca58b5
-    projectPath: Library\Artifacts\bb\bb7bb5cc13a146f572d2f2ee3cca58b5
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\c8\c8206c6139ba5dd371a441589aa17868
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\c8\c8206c6139ba5dd371a441589aa17868
-    projectPath: Library\Artifacts\c8\c8206c6139ba5dd371a441589aa17868
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\cc\cccf7e4260f6bbc4267d5fe80b295635
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\cc\cccf7e4260f6bbc4267d5fe80b295635
-    projectPath: Library\Artifacts\cc\cccf7e4260f6bbc4267d5fe80b295635
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\cf\cf4d3dae5d04450190838174cf820dbd
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\cf\cf4d3dae5d04450190838174cf820dbd
-    projectPath: Library\Artifacts\cf\cf4d3dae5d04450190838174cf820dbd
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\Artifacts\ea\ea77375cde64fb4188a70e67f25ef11f
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\Artifacts\ea\ea77375cde64fb4188a70e67f25ef11f
-    projectPath: Library\Artifacts\ea\ea77375cde64fb4188a70e67f25ef11f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Game\Library\CurrentLayout-default.dwlt
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\CurrentLayout-default.dwlt
-    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -154,18 +70,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Game\Library\ScriptAssemblies\Assembly-CSharp.dll
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ScriptAssemblies\Assembly-CSharp.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Game\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
   - path: Game\Library\SourceAssetDB
     fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
@@ -175,18 +79,6 @@ MonoBehaviour:
   - path: Game\Temp\UnityLockfile
     fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Temp\UnityLockfile
     projectPath: Temp\UnityLockfile
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Temp\UnityTempFile-32dc32cd36abedb46ac652a66fcdb433
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Temp\UnityTempFile-32dc32cd36abedb46ac652a66fcdb433
-    projectPath: Temp\UnityTempFile-32dc32cd36abedb46ac652a66fcdb433
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Game\Temp\UnityTempFile-e8679dd17eb3fe845bdd18660de588f0
-    fullPath: C:\Users\donaw\Documents\GitHub\GameEngineLab1Project\Game\Temp\UnityTempFile-e8679dd17eb3fe845bdd18660de588f0
-    projectPath: Temp\UnityTempFile-e8679dd17eb3fe845bdd18660de588f0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
