@@ -8,7 +8,8 @@ public class DialogueSystem : MonoBehaviour
     public Text nameText;
     public Text dialogueText;
     public GameObject npcText;
-
+    public bool canMove;
+    
     private Queue<string> sentences;
     // Start is called before the first frame update
     void Start()

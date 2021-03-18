@@ -6,13 +6,18 @@ public class Interactablity : MonoBehaviour
 {
     private GameObject triggeringNPC;
     private bool triggering;
-    
+    public bool canMove;
+    private Rigidbody rb;
     public GameObject dialogueText;
     public GameObject npcText;
     // Update is called once per frame
-
+    void Start()
+    {
+        rb = gameObject.GetComponent<Rigidbody>();
+    }
     void Update()
     {
+        
         if(triggering)
         {
             //dialogueText.SetActive(true);
@@ -36,6 +41,7 @@ public class Interactablity : MonoBehaviour
         {
             triggering = true;
             triggeringNPC = other.gameObject;
+            //canMove = false;
         }
     }
 
