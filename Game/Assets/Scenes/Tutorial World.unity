@@ -7803,8 +7803,9 @@ MonoBehaviour:
     name: Annabelle
     sentences:
     - Finally you're up. I've been waiting out here for an hour for you to wake up.
-      Don't tell me you were trying to sleep and miss today?
-    - Well everyone is already in the town so we better hurry.
+      Don't tell me you were trying to sleep in and miss today?
+    - Why am I up so early? Because it's the festival today! We better hurry and
+      get to the town. Everyone is already waiting for us there.
     - I'll meet you at the town gate. Better hurry.
 --- !u!1001 &860610961
 PrefabInstance:
@@ -9126,6 +9127,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nameText: {fileID: 475596455}
   dialogueText: {fileID: 853748859}
+  npcText: {fileID: 532275076}
 --- !u!4 &1138662117
 Transform:
   m_ObjectHideFlags: 0

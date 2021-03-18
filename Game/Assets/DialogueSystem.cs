@@ -7,6 +7,7 @@ public class DialogueSystem : MonoBehaviour
 {
     public Text nameText;
     public Text dialogueText;
+    public GameObject npcText;
 
     private Queue<string> sentences;
     // Start is called before the first frame update
@@ -17,7 +18,7 @@ public class DialogueSystem : MonoBehaviour
 
     public void StartDialogue (Dialgoue dialogue)
     {
-        Debug.Log("Starting conversation with " + dialogue.name);
+        //Debug.Log("Starting conversation with " + dialogue.name);
         nameText.text = dialogue.name;
         sentences.Clear();
 
@@ -38,12 +39,24 @@ public class DialogueSystem : MonoBehaviour
         }
 
         string sentence = sentences.Dequeue();
-        dialogueText.text = sentence;
+        StopAllCoroutines();
+        StartCoroutine(TypeSentence(sentence));
+    }
+
+    IEnumerator TypeSentence (string sentence)
+    {
+        dialogueText.text = "";
+        foreach (char letter in sentence.ToCharArray())
+        {
+            dialogueText.text += letter;
+            yield return null;
+        }
     }
 
     public void EndDialogue()
     {
         Debug.Log("End of conversation");
+        npcText.SetActive(false);
     }
 
 
