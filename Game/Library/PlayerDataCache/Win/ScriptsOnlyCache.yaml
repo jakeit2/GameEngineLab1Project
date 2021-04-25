@@ -9,6 +9,7 @@ ScriptsOnlyBuild:
     - Invector.Utils.vComment
     - Invector.vCharacterController.vThirdPersonController
     - Invector.vCharacterController.vThirdPersonInput
+    - PauseButton
     - QuitGame
     - StartGame
     - Story
@@ -58,6 +59,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -73,13 +78,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12150}
     - Class: 114
-      Script: {instanceID: 12656}
+      Script: {instanceID: 12662}
     - Class: 114
-      Script: {instanceID: 13300}
+      Script: {instanceID: 13306}
     - Class: 114
-      Script: {instanceID: 13420}
+      Script: {instanceID: 13426}
     - Class: 114
-      Script: {instanceID: 13736}
+      Script: {instanceID: 13742}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -113,6 +118,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
@@ -126,15 +135,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12150}
     - Class: 114
-      Script: {instanceID: 12656}
+      Script: {instanceID: 12450}
     - Class: 114
-      Script: {instanceID: 13300}
+      Script: {instanceID: 12646}
     - Class: 114
-      Script: {instanceID: 13736}
+      Script: {instanceID: 12662}
     - Class: 114
-      Script: {instanceID: 48408}
+      Script: {instanceID: 13306}
     - Class: 114
-      Script: {instanceID: 48424}
+      Script: {instanceID: 13742}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -182,6 +191,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 90
       Script: {instanceID: 0}
     - Class: 91
@@ -217,27 +230,31 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12420}
     - Class: 114
-      Script: {instanceID: 12534}
+      Script: {instanceID: 12536}
     - Class: 114
-      Script: {instanceID: 12656}
+      Script: {instanceID: 12662}
     - Class: 114
-      Script: {instanceID: 12960}
+      Script: {instanceID: 12966}
     - Class: 114
-      Script: {instanceID: 13016}
+      Script: {instanceID: 13022}
     - Class: 114
-      Script: {instanceID: 13030}
+      Script: {instanceID: 13036}
     - Class: 114
-      Script: {instanceID: 13050}
+      Script: {instanceID: 13056}
     - Class: 114
-      Script: {instanceID: 13300}
+      Script: {instanceID: 13306}
     - Class: 114
-      Script: {instanceID: 13406}
+      Script: {instanceID: 13412}
     - Class: 114
-      Script: {instanceID: 13474}
+      Script: {instanceID: 13426}
     - Class: 114
-      Script: {instanceID: 13710}
+      Script: {instanceID: 13480}
     - Class: 114
-      Script: {instanceID: 13736}
+      Script: {instanceID: 13716}
+    - Class: 114
+      Script: {instanceID: 13742}
+    - Class: 114
+      Script: {instanceID: 137262}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -795,6 +812,12 @@ ScriptsOnlyBuild:
     className: CinemachineComposer
   - hash:
       serializedVersion: 2
+      Hash: 596af5c574bb91fbac32760a23247a40
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Story
+  - hash:
+      serializedVersion: 2
       Hash: 717ba4fa266856f0da95f974dba1c541
     assemblyName: Assembly-CSharp.dll
     namespaceName: Invector.Utils
@@ -859,6 +882,18 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 85ace656c8c2acef6f27a6f39dbe6d8e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StoryScriptSystem
+  - hash:
+      serializedVersion: 2
+      Hash: eb31d25e78191a3f1f7f0883c0d26b15
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: StoryTrigger
   - hash:
       serializedVersion: 2
       Hash: 5f1752ed2092162f016c19510c28a8b9
@@ -1401,22 +1436,10 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 80fd2ef017d9d4cdf066b92a7342a328
+      Hash: c8c5e65e9fb858572516474d6e2102bc
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: StoryScriptSystem
-  - hash:
-      serializedVersion: 2
-      Hash: 596af5c574bb91fbac32760a23247a40
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Story
-  - hash:
-      serializedVersion: 2
-      Hash: eb31d25e78191a3f1f7f0883c0d26b15
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: StoryTrigger
+    className: PauseButton
   platform: 5
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
